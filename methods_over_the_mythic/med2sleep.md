@@ -1,6 +1,5 @@
 ---
-layout: article
-title: 夢にみるまで
+layout: default
 ---
 
 # 夢にみるまで
