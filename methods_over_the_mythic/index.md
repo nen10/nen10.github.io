@@ -7,60 +7,32 @@ layout: article
 ## 救いとは
 
 やっていくこと、やっていけること。やっていきましょう。
-
 <br/>
+
 ## これは何
 
 魔法使い、超能力者、多様な人々を応援する瞑想・概念情報を紹介。
 
 神秘を解放するのは、あなたです。
-
 <br/>
+
 ## CONTENTS
 
 ### [記事一覧](#articles)
 
 ### [プロフィール](https://nen10.github.io/methods_over_the_mythic/profile)
 
-### 理論
+### [概念索引](#tags)
 
-<p><details><summary>双対性</summary><div>
-
-<blockquote>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a> &gt; <a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#%E4%B8%8D%E7%9C%A0%E3%81%8C%E3%81%A1%E3%81%AA%E5%83%95%E3%81%8C%E5%AF%9D%E3%82%8B%E6%96%B9%E6%B3%95">不眠がちな僕が寝る方法</a></p>
-
-</blockquote>
-</div></details></p>
-
-
-### 概念
-
-<p><details><summary>夢</summary><div>
-
-<blockquote>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a> &gt; <a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#%E5%A4%A2%E3%81%AB%E3%81%BF%E3%82%8B%E5%B9%BB%E8%A6%9A%E3%81%AE%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9">夢にみる幻覚のプロセス</a></p>
-</blockquote>
-</div></details></p>
-
-<p><details><summary>呼吸</summary><div>
-
-<blockquote>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
-
-</blockquote>
-</div></details></p>
-
-<p><details><summary>DMT</summary><div>
-
-<blockquote>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
-</blockquote>
-</div></details></p>
-
-
-
-<br/>
 ## Articles
+[世界をおやりになる](https://nen10.github.io/methods_over_the_mythic/recursion2med) [2019/12/22]
+
+- [文脈の表現方法](https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法)
+- [人は幸せになるために再帰する](https://nen10.github.io/methods_over_the_mythic/recursion2med#人は幸せになるために再帰する)
+- [1の構造](https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造)
+- [世界を分割し社会にするもの](https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの) - [remark:写像の像と核](https://nen10.github.io/methods_over_the_mythic/recursion2med#remark写像の像と核)
+- [常識の剰余という感情](https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情)
+- [すべての瞑想は再帰である](https://nen10.github.io/methods_over_the_mythic/recursion2med#すべての瞑想は再帰である) - [呼吸法](https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法) - [視覚化](https://nen10.github.io/methods_over_the_mythic/recursion2med#視覚化) - [超視覚化](https://nen10.github.io/methods_over_the_mythic/recursion2med#超視覚化)
 
 [夢にみるまで](https://nen10.github.io/methods_over_the_mythic/med2sleep) [2019/12/11]
 
@@ -76,16 +48,23 @@ layout: article
 
 あと、[NULL GAMERの存在理由/雑記](https://raisondetreofnullgamer.jimdofree.com/log/%E9%9B%91%E8%A8%98/)から何かを適当にマージすると思います。
 
+
 <details>
-<summary>移行予定の記事</summary>
+<summary>移行済み</summary>
 
-<p><a href="https://www.psyclemeditation.com/2019-11-12-recursive-oneness/">再帰性</a></p>
+<p><a href="https://www.psyclemeditation.com/2019-10-15-euphoria/">絶頂へ至る社会性</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#人は幸せになるために再帰する">人は幸せになるために再帰する</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2019-11-04-modulo-common-sence/">感情のしがらみ:常識の剰余</a></p>
+<p><a href="https://www.psyclemeditation.com/2019-11-12-recursive-oneness/">再帰性</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">1の構造</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2019-10-20-meditation/">瞑想</a></p>
+<p><a href="https://www.psyclemeditation.com/2019-11-04-modulo-common-sence/">感情のしがらみ:常識の剰余</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">世界を分割し社会にするもの</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">常識の剰余という感情</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2019-10-15-euphoria/">絶頂へ至る社会性</a></p>
+<p><a href="https://www.psyclemeditation.com/2019-10-20-meditation/">瞑想</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#すべての瞑想は再帰である">すべての瞑想は再帰である</a></p>
+
+<p></p>
+
+</details>
+<details>
+<summary>移行予定</summary>
 
 <p><a href="https://www.psyclemeditation.com/2019-08-27-tune-in-to-fear/">分離と同調 および 痛みと恐怖</a></p>
 
@@ -143,4 +122,100 @@ layout: article
 
 </details>
 
+***
+
+## Tags
+### 理論
+<p><details><summary>再帰性</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>双対性</summary><div>
+<blockquote>
+
+<p>夢にみるまで
+<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#不眠がちな僕が寝る方法">#不眠がちな僕が寝る方法</a></p>
+
+<p>世界をおやりになる
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">#1の構造</a></p>
+
+</blockquote>
+</div></details></p>
+
+
+### 概念
+
+<p><details><summary>夢</summary><div>
+<blockquote>
+
+<p>夢にみるまで
+<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#夢にみる幻覚のプロセス">#夢にみる幻覚のプロセス</a></p>
+</blockquote>
+</div></details></p>
+
+<p><details><summary>呼吸</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
+
+<p>世界をおやりになる
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法">#呼吸法</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>DMT</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>瞑想</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>感情</summary><div>
+<blockquote>
+
+<p>世界をおやりになる
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a>  <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a></p>
+</blockquote>
+</div></details></p>
+
+<p><details><summary>関係</summary><div>
+<blockquote>
+
+<p>世界をおやりになる
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>トートロジー</summary><div>
+<blockquote>
+<p>世界をおやりになる
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a></p>
+
+</blockquote>
+</div></details></p>
+
+
+<p><details><summary>社会</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+
+</blockquote>
+</div></details></p>
 ***
