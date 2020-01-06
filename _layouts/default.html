@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    
-    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML.js"></script>
     <script type="text/x-mathjax-config">
+    MathJax.Ajax.config.path["Contrib"] = "//cdn.mathjax.org/mathjax/contrib";
     MathJax.Hub.Config({
       CommonHTML: { matchFontHeight: false },
       tex2jax: {
@@ -16,7 +16,7 @@
         processEscapes: true
       },
       TeX: {
-        extensions: ['AMScd.js']
+        extensions: ["AMScd.js","AMSmath.js","AMSsymbols.js","http://nen10.github.io/xyjax_ext/xypic.js"]
       }
     });
     </script>
