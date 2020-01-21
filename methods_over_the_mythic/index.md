@@ -25,13 +25,24 @@ layout: article
 ### [概念索引](#tags)
 
 ## Articles
+
+[永劫における儚きもの](https://nen10.github.io/methods_over_the_mythic/survivaltriality) [2020/01/16]
+
+- [構造化する二項対立](https://nen10.github.io/methods_over_the_mythic/survivaltriality#構造化する二項対立)
+- [生存戦略のモデリング](https://nen10.github.io/methods_over_the_mythic/survivaltriality#生存戦略のモデリング)
+- [1$\,+\,$3$\,=\,$4への類推](https://nen10.github.io/methods_over_the_mythic/survivaltriality#134-への類推)
+- [自我の生存戦略](https://nen10.github.io/methods_over_the_mythic/survivaltriality#自我の生存戦略)
+- [推移性をもった循環構造](https://nen10.github.io/methods_over_the_mythic/survivaltriality#推移性をもった循環構造)
+- [相生関係と相剋関係の矛盾した統合](https://nen10.github.io/methods_over_the_mythic/survivaltriality#相生関係と相剋関係の矛盾した統合)
+- [包摂バトル](https://nen10.github.io/methods_over_the_mythic/survivaltriality#包摂バトル)
+
 [世界をおやりになる](https://nen10.github.io/methods_over_the_mythic/recursion2med) [2019/12/22]
 
 - [文脈の表現方法](https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法)
 - [人は幸せになるために再帰する](https://nen10.github.io/methods_over_the_mythic/recursion2med#人は幸せになるために再帰する)
 - [1の構造](https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造)
-- [世界を分割し社会にするもの](https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの) - [remark:写像の像と核](https://nen10.github.io/methods_over_the_mythic/recursion2med#remark写像の像と核)
-- [常識の剰余という感情](https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情)
+- [常識の剰余という感情](https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情) - [remark:写像の像と核](https://nen10.github.io/methods_over_the_mythic/recursion2med#remark写像の像と核)
+- [世界を分割し社会にするもの](https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの)
 - [すべての瞑想は再帰である](https://nen10.github.io/methods_over_the_mythic/recursion2med#すべての瞑想は再帰である) - [呼吸法](https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法) - [視覚化](https://nen10.github.io/methods_over_the_mythic/recursion2med#視覚化) - [超視覚化](https://nen10.github.io/methods_over_the_mythic/recursion2med#超視覚化)
 
 [夢にみるまで](https://nen10.github.io/methods_over_the_mythic/med2sleep) [2019/12/11]
@@ -56,9 +67,16 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2019-11-12-recursive-oneness/">再帰性</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">1の構造</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2019-11-04-modulo-common-sence/">感情のしがらみ:常識の剰余</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">世界を分割し社会にするもの</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">常識の剰余という感情</a></p>
+<p><a href="https://www.psyclemeditation.com/2019-11-04-modulo-common-sence/">感情のしがらみ:常識の剰余</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">常識の剰余という感情</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">世界を分割し社会にするもの</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2019-10-20-meditation/">瞑想</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#すべての瞑想は再帰である">すべての瞑想は再帰である</a></p>
+
+
+<p><a href="https://www.psyclemeditation.com/2017-08-08-magictriality/">魔法の三すくみ</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality#構造化する二項対立">構造化する二項対立</a> <a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality#生存戦略のモデリング">生存戦略のモデリング</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-06-04-decision/">判断</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality#自我の生存戦略">自我の生存戦略</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-06-25-angermanagement/">降霊術/怒り</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality#包摂バトル">包摂バトル</a></p>
 
 <p></p>
 
@@ -108,15 +126,9 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2017-09-04-cakra/">首・頭蓋骨を矯正して喉のチャクラを開く</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2017-08-08-magictriality/">魔法の三すくみ</a></p>
-
-<p><a href="https://www.psyclemeditation.com/2017-06-25-angermanagement/">降霊術/怒り</a></p>
-
 <p><a href="https://www.psyclemeditation.com/2017-06-18-visualization/">視覚化</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-06-12-breath/">呼吸法</a></p>
-
-<p><a href="https://www.psyclemeditation.com/2017-06-04-decision/">判断</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-06-04-meditation/">みなさんが瞑想をおやりになる</a></p>
 
@@ -189,7 +201,7 @@ layout: article
 <blockquote>
 
 <p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a>  <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a></p>
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a></p>
 </blockquote>
 </div></details></p>
 
@@ -197,7 +209,7 @@ layout: article
 <blockquote>
 
 <p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a></p>
+<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a></p>
 
 </blockquote>
 </div></details></p>

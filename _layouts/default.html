@@ -4,19 +4,28 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  p { color: #eaeaea;}
+  </style>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML.js"></script>
     <script type="text/x-mathjax-config">
-    MathJax.Ajax.config.path["Contrib"] = "//cdn.mathjax.org/mathjax/contrib";
+<!--     MathJax.Ajax.config.path["Contrib"] = "//cdn.mathjax.org/mathjax/contrib"; -->
     MathJax.Hub.Config({
       CommonHTML: { matchFontHeight: false },
+      extensions: ["tex2jax.js"],
+      jax: ["input/TeX","output/HTML-CSS"],
+      "HTML-CSS": {
+<!--         styles: {".MathJax_Preview": {visibility: "hidden"}} -->
+      },
       tex2jax: {
         inlineMath: [['$','$'], ['\\(','\\)']],
         processEscapes: true
       },
       TeX: {
-        extensions: ["AMScd.js","AMSmath.js","AMSsymbols.js","https://nen10.github.io/xyjax_ext/xypic.js"]
+        extensions: ["AMScd.js","https://nen10.github.io/xyjax_ext/xypic.js","color.js"]
+<!--         extensions: ["AMScd.js","AMSmath.js","AMSsymbols.js","[Contrib]/xyjax/xypic.js",\require{color}] -->
       }
     });
     </script>
