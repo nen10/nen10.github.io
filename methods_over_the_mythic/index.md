@@ -25,6 +25,11 @@ layout: article
 ### [概念索引](#tags)
 
 ## Articles
+[最速の眼球](https://nen10.github.io/methods_over_the_mythic/rapideye) [2020/01/26]
+
+- [視覚化, 超視覚化](https://nen10.github.io/methods_over_the_mythic/rapideye#視覚化) 
+- [薬物たちとの相互作用](https://nen10.github.io/methods_over_the_mythic/rapideye#薬物たちとの相互作用) 
+- [これは何](https://nen10.github.io/methods_over_the_mythic/rapideye#これは何) 
 
 [永劫における儚きもの](https://nen10.github.io/methods_over_the_mythic/survivaltriality) [2020/01/16]
 
@@ -35,6 +40,7 @@ layout: article
 - [推移性をもった循環構造](https://nen10.github.io/methods_over_the_mythic/survivaltriality#推移性をもった循環構造)
 - [相生関係と相剋関係の矛盾した統合](https://nen10.github.io/methods_over_the_mythic/survivaltriality#相生関係と相剋関係の矛盾した統合)
 - [包摂バトル](https://nen10.github.io/methods_over_the_mythic/survivaltriality#包摂バトル)
+- [追記[2020/01/22]](https://nen10.github.io/methods_over_the_mythic/survivaltriality#0122-追記)
 
 [世界をおやりになる](https://nen10.github.io/methods_over_the_mythic/recursion2med) [2019/12/22]
 
