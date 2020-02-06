@@ -25,6 +25,8 @@ layout: article
 ### [概念索引](#tags)
 
 ## Articles
+[時間がないひと](https://nen10.github.io/methods_over_the_mythic/freetime) [2020/02/07]
+
 [最速の眼球](https://nen10.github.io/methods_over_the_mythic/rapideye) [2020/01/26]
 
 - [視覚化, 超視覚化](https://nen10.github.io/methods_over_the_mythic/rapideye#視覚化) 
