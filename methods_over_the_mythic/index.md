@@ -42,7 +42,6 @@ layout: article
 - [推移性をもった循環構造](https://nen10.github.io/methods_over_the_mythic/survivaltriality#推移性をもった循環構造)
 - [相生関係と相剋関係の矛盾した統合](https://nen10.github.io/methods_over_the_mythic/survivaltriality#相生関係と相剋関係の矛盾した統合)
 - [包摂バトル](https://nen10.github.io/methods_over_the_mythic/survivaltriality#包摂バトル)
-- [追記[2020/01/22]](https://nen10.github.io/methods_over_the_mythic/survivaltriality#0122-追記)
 
 [世界をおやりになる](https://nen10.github.io/methods_over_the_mythic/recursion2med) [2019/12/22]
 
@@ -114,8 +113,6 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2017-07-03-unconsciousness/">無意識とやっていく</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2018-03-09-allusion/">アリュージョン/名前</a></p>
-
 <p><a href="https://www.psyclemeditation.com/2018-01-10-memo/">集合的魂のメモ書き</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2018-01-13-bridle/">魂のたずな</a></p>
@@ -126,10 +123,6 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2017-07-10-hypervisualization/">超視覚化</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2017-11-08-communication/">コミュニケーション</a></p>
-
-<p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a></p>
-
 <p><a href="https://www.psyclemeditation.com/2017-10-19-duality/">双対性</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-09-04-cakra/">首・頭蓋骨を矯正して喉のチャクラを開く</a></p>
@@ -139,6 +132,16 @@ layout: article
 <p><a href="https://www.psyclemeditation.com/2017-06-12-breath/">呼吸法</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-06-04-meditation/">みなさんが瞑想をおやりになる</a></p>
+
+</details>
+<details>
+<summary>凍結中</summary>
+
+<p><a href="https://www.psyclemeditation.com/2018-03-09-allusion/">アリュージョン/名前</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-11-08-communication/">コミュニケーション</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a></p>
 
 </details>
 
