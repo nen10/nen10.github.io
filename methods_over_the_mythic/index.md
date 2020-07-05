@@ -25,6 +25,12 @@ layout: article
 ### [概念索引](#tags)
 
 ## Articles
+[超能力開発をすると、はちゃめちゃになります](https://nen10.github.io/methods_over_the_mythic/psychic_development) [2020/07/05]
+
+- [世界観](https://nen10.github.io/methods_over_the_mythic/psychic_development#世界観)
+- [多様な能力の具体化](https://nen10.github.io/methods_over_the_mythic/psychic_development#多様な能力の具体化)  - [予知夢](https://nen10.github.io/methods_over_the_mythic/psychic_development#予知夢) - [テレパシー](https://nen10.github.io/methods_over_the_mythic/psychic_development#テレパシー) - [チャネリング](https://nen10.github.io/methods_over_the_mythic/psychic_development#チャネリング) - [未来予知](https://nen10.github.io/methods_over_the_mythic/psychic_development#未来予知)
+- [超能力の存在証明](https://nen10.github.io/methods_over_the_mythic/psychic_development#超能力の存在証明)
+
 [時間がないひと](https://nen10.github.io/methods_over_the_mythic/freetime) [2020/02/07]
 
 [最速の眼球](https://nen10.github.io/methods_over_the_mythic/rapideye) [2020/01/26]
@@ -62,13 +68,13 @@ layout: article
 
 ***
 
-[神秘の解法](https://www.psyclemeditation.com/) をここに移行していきます。
+[神秘の解法](https://www.psyclemeditation.com/) をここに移行・リライトしていきます。
 
 あと、[NULL GAMERの存在理由/雑記](https://raisondetreofnullgamer.jimdofree.com/log/%E9%9B%91%E8%A8%98/)から何かを適当にマージすると思います。
 
 
 <details>
-<summary>移行済み</summary>
+<summary>移行・リライト済み</summary>
 
 <p><a href="https://www.psyclemeditation.com/2019-10-15-euphoria/">絶頂へ至る社会性</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#人は幸せになるために再帰する">人は幸せになるために再帰する</a></p>
 
@@ -84,6 +90,12 @@ layout: article
 <p><a href="https://www.psyclemeditation.com/2017-06-04-decision/">判断</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality#自我の生存戦略">自我の生存戦略</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-06-25-angermanagement/">降霊術/怒り</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality#包摂バトル">包摂バトル</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-11-08-communication/">コミュニケーション</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-12-22-future-sight/">仮想通貨の価格を未来予知しよう</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 
 <p></p>
 
@@ -117,8 +129,6 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2018-01-13-bridle/">魂のたずな</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2017-12-22-future-sight/">仮想通貨の価格を未来予知しよう</a></p>
-
 <p><a href="https://www.psyclemeditation.com/2017-12-05-magic-item/">超視覚化の活用例と魔道具作成</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-07-10-hypervisualization/">超視覚化</a></p>
@@ -139,9 +149,6 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2018-03-09-allusion/">アリュージョン/名前</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2017-11-08-communication/">コミュニケーション</a></p>
-
-<p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a></p>
 
 </details>
 
