@@ -25,6 +25,9 @@ layout: article
 ### [概念索引](#tags)
 
 ## Articles
+
+[人間の新しい言葉](https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words) [2020/07/10]
+
 [超能力開発をすると、はちゃめちゃになります](https://nen10.github.io/methods_over_the_mythic/psychic_development) [2020/07/05]
 
 - [世界観](https://nen10.github.io/methods_over_the_mythic/psychic_development#世界観)
@@ -93,8 +96,6 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2017-11-08-communication/">コミュニケーション</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
-
 <p><a href="https://www.psyclemeditation.com/2017-12-22-future-sight/">仮想通貨の価格を未来予知しよう</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 
 <p></p>
@@ -149,6 +150,7 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2018-03-09-allusion/">アリュージョン/名前</a></p>
 
+<p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a></p>
 
 </details>
 
@@ -161,6 +163,7 @@ layout: article
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
 <p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#世界観">#世界観</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
 
 </blockquote>
 </div></details></p>
@@ -179,42 +182,6 @@ layout: article
 
 ### 概念
 
-<p><details><summary>夢</summary><div>
-<blockquote>
-
-<p>夢にみるまで<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#夢にみる幻覚のプロセス">#夢にみる幻覚のプロセス</a></p>
-</blockquote>
-</div></details></p>
-
-<p><details><summary>呼吸</summary><div>
-<blockquote>
-
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
-
-<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法">#呼吸法</a></p>
-
-</blockquote>
-</div></details></p>
-
-<p><details><summary>DMT</summary><div>
-<blockquote>
-
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
-
-</blockquote>
-</div></details></p>
-
-<p><details><summary>瞑想</summary><div>
-<blockquote>
-
-<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/rapideye">最速の眼球</a></p>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/freetime">時間がないひと</a></p>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
-
-</blockquote>
-</div></details></p>
 
 <p><details><summary>感情</summary><div>
 <blockquote>
@@ -255,20 +222,69 @@ layout: article
 </blockquote>
 </div></details></p>
 
-<p><details><summary>ミーム</summary><div>
+
+<p><details><summary>意識</summary><div>
 <blockquote>
 
-<p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#チャネリング">#チャネリング</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
+
+</blockquote>
+</div></details></p>
+
+### 方法
+
+<p><details><summary>呼吸</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
+
+<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法">#呼吸法</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>瞑想</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/rapideye">最速の眼球</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/freetime">時間がないひと</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 
 </blockquote>
 </div></details></p>
 
 ### 象徴
 
+<p><details><summary>夢</summary><div>
+<blockquote>
+
+<p>夢にみるまで<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#夢にみる幻覚のプロセス">#夢にみる幻覚のプロセス</a></p>
+</blockquote>
+</div></details></p>
+
+<p><details><summary>DMT</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
+
+</blockquote>
+</div></details></p>
+
 <p><details><summary>生存戦略の三すくみ</summary><div>
 <blockquote>
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality">永劫における儚きもの</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>ミーム</summary><div>
+<blockquote>
+
+<p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#チャネリング">#チャネリング</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
 
 </blockquote>
 </div></details></p>
