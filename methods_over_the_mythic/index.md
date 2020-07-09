@@ -160,6 +160,7 @@ layout: article
 <blockquote>
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+<p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#世界観">#世界観</a></p>
 
 </blockquote>
 </div></details></p>
@@ -170,8 +171,7 @@ layout: article
 <p>夢にみるまで
 <a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#不眠がちな僕が寝る方法">#不眠がちな僕が寝る方法</a></p>
 
-<p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">#1の構造</a></p>
+<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">#1の構造</a></p>
 
 </blockquote>
 </div></details></p>
@@ -182,8 +182,7 @@ layout: article
 <p><details><summary>夢</summary><div>
 <blockquote>
 
-<p>夢にみるまで
-<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#夢にみる幻覚のプロセス">#夢にみる幻覚のプロセス</a></p>
+<p>夢にみるまで<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#夢にみる幻覚のプロセス">#夢にみる幻覚のプロセス</a></p>
 </blockquote>
 </div></details></p>
 
@@ -192,8 +191,7 @@ layout: article
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
 
-<p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法">#呼吸法</a></p>
+<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#呼吸法">#呼吸法</a></p>
 
 </blockquote>
 </div></details></p>
@@ -211,6 +209,9 @@ layout: article
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/med2sleep">夢にみるまで</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/rapideye">最速の眼球</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/freetime">時間がないひと</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 
 </blockquote>
 </div></details></p>
@@ -218,24 +219,21 @@ layout: article
 <p><details><summary>感情</summary><div>
 <blockquote>
 
-<p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a></p>
+<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#世界を分割し社会にするもの">#世界を分割し社会にするもの</a></p>
 </blockquote>
 </div></details></p>
 
 <p><details><summary>関係</summary><div>
 <blockquote>
 
-<p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a></p>
+<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#常識の剰余という感情">#常識の剰余という感情</a></p>
 
 </blockquote>
 </div></details></p>
 
 <p><details><summary>トートロジー</summary><div>
 <blockquote>
-<p>世界をおやりになる
-<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a></p>
+<p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a></p>
 
 </blockquote>
 </div></details></p>
@@ -248,4 +246,48 @@ layout: article
 
 </blockquote>
 </div></details></p>
+
+<p><details><summary>エントロピー</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/freetime">時間がないひと</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>ミーム</summary><div>
+<blockquote>
+
+<p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#チャネリング">#チャネリング</a></p>
+
+</blockquote>
+</div></details></p>
+
+### 象徴
+
+<p><details><summary>生存戦略の三すくみ</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/survivaltriality">永劫における儚きもの</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>六色様相</summary><div>
+<blockquote>
+
+<p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#チャネリング">#チャネリング</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>火</summary><div>
+<blockquote>
+
+<p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#未来予知">#未来予知</a></p>
+
+</blockquote>
+</div></details></p>
+
 ***
+
