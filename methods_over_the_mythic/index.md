@@ -26,6 +26,8 @@ layout: article
 
 ## Articles
 
+[双対性の破れと回復](https://nen10.github.io/methods_over_the_mythic/recursive_duality) [2020/08/30]
+
 [人間の新しい言葉](https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words) [2020/07/10]
 
 [超能力開発をすると、はちゃめちゃになります](https://nen10.github.io/methods_over_the_mythic/psychic_development) [2020/07/05]
@@ -164,6 +166,7 @@ layout: article
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
 <p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#世界観">#世界観</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
 
 </blockquote>
 </div></details></p>
@@ -175,6 +178,7 @@ layout: article
 <a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#不眠がちな僕が寝る方法">#不眠がちな僕が寝る方法</a></p>
 
 <p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">#1の構造</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
 
 </blockquote>
 </div></details></p>
@@ -205,11 +209,18 @@ layout: article
 </blockquote>
 </div></details></p>
 
+<p><details><summary>矛盾</summary><div>
+<blockquote>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
+
+</blockquote>
+</div></details></p>
 
 <p><details><summary>社会</summary><div>
 <blockquote>
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
 
 </blockquote>
 </div></details></p>
@@ -227,6 +238,7 @@ layout: article
 <blockquote>
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
 
 </blockquote>
 </div></details></p>
@@ -251,6 +263,7 @@ layout: article
 <p><a href="https://nen10.github.io/methods_over_the_mythic/rapideye">最速の眼球</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/freetime">時間がないひと</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
 
 </blockquote>
 </div></details></p>
@@ -301,6 +314,13 @@ layout: article
 <blockquote>
 
 <p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#未来予知">#未来予知</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>和多志</summary><div>
+<blockquote>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
 
 </blockquote>
 </div></details></p>
