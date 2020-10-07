@@ -4,16 +4,6 @@ layout: default
 
 # 入れ替わる双対の流れ
 
-#### 追記 [2020/10/08]
-
-[2020/09/05]の僕は大変具合の悪い話を書いていたわけですが、[2020/10/08]の僕から見た昨日、坂口恭平[@zhtsss](https://twitter.com/zhtsss)さんのnote記事「お金の学校」を読みまして、お金についての認識、経済についての認識が大変改められまして、こういう向き合い方をすればいいのかと得心いたしました。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">坂口恭平さんの「お金の学校」とても良いです。現在更新分で言うと2, 7, 8(=最新)話は特に僕に刺さってます。リンク先は1話目です。<br>リラックスして、さらさらになって、自分と他者の境目がなくなっても大丈夫なセッティングを整えて読んでみてね。<br>｜<a href="https://twitter.com/zhtsss?ref_src=twsrc%5Etfw">@zhtsss</a> <a href="https://twitter.com/hashtag/note?src=hash&amp;ref_src=twsrc%5Etfw">#note</a> <a href="https://t.co/9qQmqZXpAT">https://t.co/9qQmqZXpAT</a></p>&mdash; ねん01くん (@nenten) <a href="https://twitter.com/nenten/status/1313697534083096577?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[2020/09/05]の僕が書いていた今回の記事、あまりにネガティブでこれは一体どういうことだろうと思い、この記事を消すかどうかずっと心残りだったのですが、恭平さんの文章を読んだ今、この記事を読み返すと、何がおかしかったのかが見えてきます。豊かさとはさらさらした流れのことであるのに対して、正しさとはその流れのさらさら度合いだったということです。これがかたくなってしまったからネガティブな文章になっていたのだと思います。オチだけはどうしようもなくひどいのでリライトさせてもらいました。変更履歴が気になるならGitHubから遡って読んでください。
-
--------------
-
 この前、こんなツイートを拝見しました。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プログラマーの社会は独特な問題があって、ある機能を開発した時にそれを会社に納品するとお金がもらえるのに、それをオープンソースで公開すると社会全体が恩恵を享受できるかわりにお金がもらえないんですよ。これもある意味不思議ですよね。</p>&mdash; じーくどらむす/岩本翔 (@geekdrums) <a href="https://twitter.com/geekdrums/status/1300486768861442050?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
