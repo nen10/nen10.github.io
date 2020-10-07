@@ -26,7 +26,7 @@ layout: article
 
 ## Articles
 
-[流れを持つ双対の波動](https://nen10.github.io/methods_over_the_mythic/duality_flow) [2020/09/05]
+[入れ替わる双対の流れ](https://nen10.github.io/methods_over_the_mythic/duality_flow) [2020/09/05]
 
 [双対性の破れと回復](https://nen10.github.io/methods_over_the_mythic/recursive_duality) [2020/08/30]
 
@@ -181,7 +181,7 @@ layout: article
 
 <p>世界をおやりになる<a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#文脈の表現方法">#文脈の表現方法</a> <a href="https://nen10.github.io/methods_over_the_mythic/recursion2med#1の構造">#1の構造</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
-<p><a href="https://nen10.github.io/methods_over_the_mythic/duality_flow">流れを持つ双対の波動</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/duality_flow">入れ替わる双対の流れ</a></p>
 
 </blockquote>
 </div></details></p>
