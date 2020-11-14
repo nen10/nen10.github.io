@@ -26,6 +26,16 @@ layout: article
 
 ## Articles
 
+[意思の解像度](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent) [2020/11/14]
+
+- [言葉を解放する](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E8%A8%80%E8%91%89%E3%82%92%E8%A7%A3%E6%94%BE%E3%81%99%E3%82%8B)
+- [自由を解放する](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E8%87%AA%E7%94%B1%E3%82%92%E8%A7%A3%E6%94%BE%E3%81%99%E3%82%8B)
+- [存在を解放する](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E5%AD%98%E5%9C%A8%E3%82%92%E8%A7%A3%E6%94%BE%E3%81%99%E3%82%8B)
+- [事象を解放する](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E4%BA%8B%E8%B1%A1%E3%82%92%E8%A7%A3%E6%94%BE%E3%81%99%E3%82%8B)
+- [文脈を解放する](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E6%96%87%E8%84%88%E3%82%92%E8%A7%A3%E6%94%BE%E3%81%99%E3%82%8B)
+- [空間を解放する](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E7%A9%BA%E9%96%93%E3%82%92%E8%A7%A3%E6%94%BE%E3%81%99%E3%82%8B)
+- [言語化された瞑想法](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E7%9E%91%E6%83%B3%E6%B3%95) - [視覚化](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E8%A6%96%E8%A6%9A%E5%8C%96) - [超視覚化](https://nen10.github.io/methods_over_the_mythic/resolution_of_intent#%E8%B6%85%E8%A6%96%E8%A6%9A%E5%8C%96)
+
 [入れ替わる双対の流れ](https://nen10.github.io/methods_over_the_mythic/duality_flow) [2020/09/05]
 
 [双対性の破れと回復](https://nen10.github.io/methods_over_the_mythic/recursive_duality) [2020/08/30]
@@ -102,6 +112,10 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2017-12-22-future-sight/">仮想通貨の価格を未来予知しよう</a><br/> $\Rightarrow$ <a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 
+<p><a href="https://www.psyclemeditation.com/2017-06-18-visualization/">視覚化</a></p> $\Rightarrow$ <p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-07-10-hypervisualization/">超視覚化</a></p> $\Rightarrow$ <p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
 <p></p>
 
 </details>
@@ -136,13 +150,7 @@ layout: article
 
 <p><a href="https://www.psyclemeditation.com/2017-12-05-magic-item/">超視覚化の活用例と魔道具作成</a></p>
 
-<p><a href="https://www.psyclemeditation.com/2017-07-10-hypervisualization/">超視覚化</a></p>
-
-<p><a href="https://www.psyclemeditation.com/2017-10-19-duality/">双対性</a></p>
-
 <p><a href="https://www.psyclemeditation.com/2017-09-04-cakra/">首・頭蓋骨を矯正して喉のチャクラを開く</a></p>
-
-<p><a href="https://www.psyclemeditation.com/2017-06-18-visualization/">視覚化</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-06-12-breath/">呼吸法</a></p>
 
@@ -155,6 +163,8 @@ layout: article
 <p><a href="https://www.psyclemeditation.com/2018-03-09-allusion/">アリュージョン/名前</a></p>
 
 <p><a href="https://www.psyclemeditation.com/2017-09-21-meme/">ミーム</a></p>
+
+<p><a href="https://www.psyclemeditation.com/2017-10-19-duality/">双対性</a></p>
 
 </details>
 
@@ -222,6 +232,7 @@ layout: article
 <p><details><summary>定義</summary><div>
 <blockquote>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
 
 </blockquote>
 </div></details></p>
@@ -231,6 +242,7 @@ layout: article
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursion2med">世界をおやりになる</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
 
 </blockquote>
 </div></details></p>
@@ -249,6 +261,15 @@ layout: article
 
 <p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>自由</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
 
 </blockquote>
 </div></details></p>
@@ -274,6 +295,32 @@ layout: article
 <p><a href="https://nen10.github.io/methods_over_the_mythic/freetime">時間がないひと</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/psychic_development">超能力開発をすると、はちゃめちゃになります</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/recursive_duality">双対性の破れと回復</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
+</blockquote>
+</div></details></p>
+
+
+<p><details><summary>見切り</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>引き寄せ</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
+</blockquote>
+</div></details></p>
+
+<p><details><summary>コミュニケーションを超える</summary><div>
+<blockquote>
+
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
 
 </blockquote>
 </div></details></p>
@@ -284,6 +331,8 @@ layout: article
 <blockquote>
 
 <p>夢にみるまで<a href="https://nen10.github.io/methods_over_the_mythic/med2sleep#夢にみる幻覚のプロセス">#夢にみる幻覚のプロセス</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
+
 </blockquote>
 </div></details></p>
 
@@ -308,6 +357,7 @@ layout: article
 
 <p>超能力開発をすると、はちゃめちゃになります<a href="https://nen10.github.io/methods_over_the_mythic/psychic_development#チャネリング">#チャネリング</a></p>
 <p><a href="https://nen10.github.io/methods_over_the_mythic/the_emperor's_new_words">人間の新しい言葉</a></p>
+<p><a href="https://nen10.github.io/methods_over_the_mythic/resolution_of_intent">意思の解像度</a></p>
 
 </blockquote>
 </div></details></p>
