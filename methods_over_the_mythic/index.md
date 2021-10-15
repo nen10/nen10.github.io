@@ -14,15 +14,19 @@ layout: article
 魔法使い、超能力者、多様な人々を応援する瞑想・概念情報を紹介。
 
 神秘を解放するのは、あなたです。
-<br/>
 
-## CONTENTS
+
+## SNS
+[Twitter](https://twitter.com/nenten),  [YouTube](https://www.youtube.com/channel/UC6qFxiyILoqf4f51FLGEdeg), [note](https://note.com/nenten)
+
+## Contents
 
 ### [記事一覧](#articles)
 
 ### [プロフィール](https://nen10.github.io/methods_over_the_mythic/profile)
 
 ### [概念索引](#tags)
+
 
 ## Articles
 
